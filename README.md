@@ -1,6 +1,6 @@
 # 8 Implementation of error detection using CRC CCITT [16 bit] technique
 
-# CRC-16 Bit Error Detection Lab
+# CRC-16 Bit Error Detection 
 
 ## 🧠 AIM
 To write a program for error detection using the Cyclic Redundancy Check (CRC-16 bit) technique.
